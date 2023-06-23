@@ -112,7 +112,7 @@ N/A
 
 - GitHub: [@githubhandle](https://github.com/AFakhriddinov)
 - Facebook: [@facebookhandle](https://www.facebook.com/abdulaziz.faxriddinov)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdul-aziz-fakhriddinov-5297a6107/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/afakhriddinov/)
 
 
 
