@@ -100,7 +100,7 @@ Use this project in the browsers of desktops and mobile devices
 
 ### Run tests
 
-npm run test
+npm test
 
 ### Deployment
 
